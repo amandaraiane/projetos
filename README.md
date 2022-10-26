@@ -1,2 +1,2 @@
 # social-liks
-Projeto desenvolvido para praticar as tecnologias HTML e CSS
+Lista com alguns projetos desenvolvidos
